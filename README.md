@@ -5,7 +5,7 @@ It can save time, paper, easily remind the things, give knowledge and entertain 
 
 - 🌱 I’m currently learning kotlin and flutter
 
-- 💞️ I like to collaborate with you as a Developer
+- 💞️ I like to collaborate with people as a good human being as well as a developer
 
 - 📫 How to reach me?
    - You can reach me by email and phone. My email id is rup.barad@atharvasystem.com and Phone number is 6352278590
