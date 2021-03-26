@@ -1,14 +1,10 @@
 - 👋 Hi, I’m @RupBarad
 
-- 👀 I’m interested in to develop applications which users able to use it.
-It can save time, paper, easily remind the things, give knowledge and entertain the people.  
+- 👀 I am interested in creating an efficiency-oriented application. (i.e. Reminders, Quick info, Knowledge-based entertainment quiz, etc.)
 
-- 🌱 I’m currently learning kotlin and flutter
+- 🌱 I am a skilled android developer, expanding my expertise in Kotlin and Flutter.
 
-- 💞️ I like to collaborate with people as a good human being as well as a developer
-
-- 📫 How to reach me?
-   - You can reach me by email and phone. My email id is rup.barad@atharvasystem.com and Phone number is 6352278590
+- 📫 **How to reach me?** : We can connect by mail. My mail id is rup.barad@atharvasystem.com 
 
 <!---
 RupBarad/RupBarad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
