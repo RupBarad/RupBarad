@@ -2,7 +2,7 @@
 
 - 👀 I am interested in creating an efficiency-oriented application. (i.e. Reminders, Quick info, Knowledge-based entertainment quiz, etc.)
 
-- 🌱 I am a skilled android developer, expanding my expertise in Kotlin and Flutter.
+- 🌱 I am a skilled android developer, expanding my expertise in Kotlin and React Native.
 
 - 📫 **How to reach me?** : We can connect by mail. My mail id is rup.barad@atharvasystem.com 
 
